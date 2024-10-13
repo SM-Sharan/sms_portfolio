@@ -26,7 +26,6 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "<unknown>",
     "last_opened_file_path": "C:/Users/HADES/WebstormProjects/Profile",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,6 +74,7 @@
       <updated>1728810507314</updated>
       <workItem from="1728810508407" duration="39264000" />
       <workItem from="1728854979655" duration="1135000" />
+      <workItem from="1728856875149" duration="1186000" />
     </task>
     <servers />
   </component>
@@ -97,7 +97,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/sections/Contact.jsx</url>
           <line>65</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
