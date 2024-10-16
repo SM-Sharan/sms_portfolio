@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66de0805-e416-4b51-813d-ee69ceeb41c5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/hls-CG526bOC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-BR8pkAsb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-BwL1xJnm.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/project-logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/project-logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/project-logo4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/project-logo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/red-bull-logo-png-transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/project-logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/project-logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/project-logo4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/project-logo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/red-bull-logo-png-transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Hero.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +61,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HADES\WebstormProjects\Profile\public\assets" />
       <recent name="C:\Users\HADES\WebstormProjects\untitled\public\assets" />
       <recent name="C:\Users\HADES\WebstormProjects\untitled\public\textures\project" />
       <recent name="C:\Users\HADES\WebstormProjects\untitled" />
@@ -78,6 +97,9 @@
       <workItem from="1728810508407" duration="39264000" />
       <workItem from="1728854979655" duration="1135000" />
       <workItem from="1728856875149" duration="1520000" />
+      <workItem from="1728859023743" duration="1595000" />
+      <workItem from="1728901543708" duration="1560000" />
+      <workItem from="1729051187045" duration="919000" />
     </task>
     <servers />
   </component>

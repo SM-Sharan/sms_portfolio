@@ -95,7 +95,7 @@ export const myProjects = [
         title: ' Digital Marketing Red Bull',
         desc: 'During my mentorship with the manager of Masala Kitchen, I led a project for Red Bull to create an engaging advertisement. I researched Red Bull\'s brand identity and planned the video flow, resulting in a successful final product that highlighted our collaboration and innovation.',
         subdesc:
-            'CarePulse streamlines complex forms and SMS notifications to enhance operational workflows. By leveraging design tools like Canva and DaVinci Resolve, we ensure efficient and effective communication that meets user needs.',
+            'By leveraging design tools like Canva and DaVinci Resolve, we ensure efficient and effective communication that meets user needs.',
         href: 'https://drive.google.com/file/d/1VmpSi0VFcZTy4UcvbZRQHA8ZsjAhsKee/view',
         texture: '/textures/project/RED BULL CANVA NO AUDIO.mp4',
         logo: '/assets/redbull.png',
@@ -127,7 +127,7 @@ export const myProjects = [
 export const calculateSizes = (isSmall, isMobile, isTablet) => {
     return {
         deskScale: isSmall ? 0.05 : isMobile ? 0.06 : 0.065,
-        deskPosition: isMobile ? [0.5, -4.5, 0] : [0.25, -6.5, 0],
+        deskPosition: isMobile ? [0.5, -5.5, 0] : [0.5,-7.6, 0],
         cubePosition: isSmall ? [5, -5, 0] : isMobile ? [5, -6, 4] : isTablet ? [5, -5, 0] : [9, -5.5, 0],
         reactLogoPosition: isSmall ? [4, 4, 0] : isMobile ? [5, 4, 4] : isTablet ? [5, 4, 0] : [12, 3, 0],
         ringPosition: isSmall ? [-10, 12, 0] : isMobile ? [-10, 10, 12] : isTablet ? [-15, 12, 0] : [-24, 10, 0],
