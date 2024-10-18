@@ -56,7 +56,7 @@ export const myProjects = [
         title: 'CarePulse - Health Management System',
         desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
         subdesc:
-            'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
+            'With a focus on efficiency, CarePulse integrates complex forms and SMS notifications by using Next.js, Appwrite, Twilio, Sentry, and Figma to design the webpage and enhance operational workflows',
         href: 'https://sms-carepluse.vercel.app/',
         texture: '/textures/project/project3.mp4',
         logo: '/assets/project-logo3.png',
@@ -89,13 +89,18 @@ export const myProjects = [
                 name: 'Framer Motion',
                 path: '/assets/framer.png',
             },
+            {
+                id: 5,
+                name: 'Figma',
+                path: '/assets/figma.svg',
+            },
         ],
     },
     {
         title: 'Digital Marketing for Red Bull',
-        desc: 'During my mentorship with the manager of Masala Kitchen, I spearheaded a project to create an engaging advertisement for Red Bull. Through in-depth research into Red Bull\'s brand identity, I meticulously planned the video flow to ensure alignment with their vision. The final product was a compelling advertisement that showcased our collaborative spirit and innovative approach.',
+        desc: "During my mentorship with the manager of Masala Kitchen, I spearheaded a project to create an engaging advertisement for Red Bull. Through in-depth research into Red Bull's brand identity, I meticulously planned the video flow to ensure alignment with their vision. The final product was a compelling advertisement that showcased our collaborative spirit and innovative approach.",
         subdesc:
-            'By leveraging powerful design tools such as Canva and DaVinci Resolve, we facilitated efficient and impactful communication that effectively met user needs.\n',
+            "By leveraging powerful design tools such as Canva, Figma, and DaVinci Resolve, we facilitated efficient and impactful communication that effectively met user needs.",
         href: 'https://drive.google.com/file/d/1VmpSi0VFcZTy4UcvbZRQHA8ZsjAhsKee/view',
         texture: '/textures/project/RED BULL CANVA NO AUDIO.mp4',
         logo: '/assets/redbull.png',
@@ -117,6 +122,11 @@ export const myProjects = [
                 id: 2,
                 name: 'DaVinci Resolve',
                 path: 'assets/DaV.png',
+            },
+            {
+                id: 3,
+                name: 'Figma',
+                path: '/assets/figma.svg',
             },
 
         ],

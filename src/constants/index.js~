@@ -89,13 +89,18 @@ export const myProjects = [
                 name: 'Framer Motion',
                 path: '/assets/framer.png',
             },
+            {
+                id: 5,
+                name: 'Figma',
+                path: '/assets/figma.svg',
+            },
         ],
     },
     {
         title: 'Digital Marketing for Red Bull',
-        desc: 'During my mentorship with the manager of Masala Kitchen, I spearheaded a project to create an engaging advertisement for Red Bull. Through in-depth research into Red Bull\'s brand identity, I meticulously planned the video flow to ensure alignment with their vision. The final product was a compelling advertisement that showcased our collaborative spirit and innovative approach.',
+        desc: "During my mentorship with the manager of Masala Kitchen, I spearheaded a project to create an engaging advertisement for Red Bull. Through in-depth research into Red Bull's brand identity, I meticulously planned the video flow to ensure alignment with their vision. The final product was a compelling advertisement that showcased our collaborative spirit and innovative approach.",
         subdesc:
-            'By leveraging powerful design tools such as Canva and DaVinci Resolve, we facilitated efficient and impactful communication that effectively met user needs.\n',
+            "By leveraging powerful design tools such as Canva, Figma, and DaVinci Resolve, we facilitated efficient and impactful communication that effectively met user needs.",
         href: 'https://drive.google.com/file/d/1VmpSi0VFcZTy4UcvbZRQHA8ZsjAhsKee/view',
         texture: '/textures/project/RED BULL CANVA NO AUDIO.mp4',
         logo: '/assets/redbull.png',
@@ -118,6 +123,11 @@ export const myProjects = [
                 name: 'DaVinci Resolve',
                 path: 'assets/DaV.png',
             },
+            {
+                id: 3,
+                name: 'Figma',
+                path: '/assets/figma.svg',
+            },
 
         ],
     },
@@ -128,7 +138,7 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
     return {
         deskScale: isSmall ? 0.05 : isMobile ? 0.07 : 0.065,
         deskPosition: isMobile ? [0.5, -5.5, 0] : [0.5,-8.6, 0],
-        cubePosition: isSmall ? [5, -5, 0] : isMobile ? [6, -6, 3] : isTablet ? [5, -5, 0] : [9, -5.5, 0],
+        cubePosition: isSmall ? [5, -5, 0] : isMobile ? [6, -6, 2] : isTablet ? [5, -5, 0] : [9, -5.5, 0],
         reactLogoPosition: isSmall ? [4, 4, 0] : isMobile ? [5, 4, 4] : isTablet ? [5, 4, 0] : [12, 3, 0],
         ringPosition: isSmall ? [-10, 12, 0] : isMobile ? [-10, 10, 12] : isTablet ? [-15, 12, 0] : [-24, 10, 0],
         targetPosition: isSmall ? [-7, -10, -10] : isMobile ? [-9, -10, -10] : isTablet ? [-11, -7, -10] : [-13, -13, -10],
